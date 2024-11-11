@@ -1,6 +1,7 @@
 {
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
+    "@typescript-eslint/indent": "off",
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
+      "source.fixAll.eslint": "always"
     }
   }
